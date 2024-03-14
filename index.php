@@ -47,15 +47,6 @@
                     <source src="https://assets-global.website-files.com/60a5762d19a98578cbbd6c63/60be9222a3964c52e602760c_backgroundvideo-transcode.mp4" data-wf-ignore="true"/>
                     <source src="https://assets-global.website-files.com/60a5762d19a98578cbbd6c63/60be9222a3964c52e602760c_backgroundvideo-transcode.webm" data-wf-ignore="true"/>
                 </video>
-                <div class="internationalleaderheading">
-                    <div class="mainhometext">THE</div>
-                    <div class="mainhometext">INTERNATIONAL</div>
-                    <div class="mainhometext">LEADER</div>
-                </div>
-                <div class="subheadinghome">of amusement park rides &amp;roller coasters</div>
-                <div class="gradientthing">
-                    <img src="https://assets-global.website-files.com/60a5762d19a98578cbbd6c63/60be44b30c420895f1bef6d1_gradientspread.png" loading="lazy" sizes="(max-width: 3000px) 100vw, 3000px" srcset="https://assets-global.website-files.com/60a5762d19a98578cbbd6c63/60be44b30c420895f1bef6d1_gradientspread-p-500.png 500w, https://assets-global.website-files.com/60a5762d19a98578cbbd6c63/60be44b30c420895f1bef6d1_gradientspread-p-800.png 800w, https://assets-global.website-files.com/60a5762d19a98578cbbd6c63/60be44b30c420895f1bef6d1_gradientspread-p-1080.png 1080w, https://assets-global.website-files.com/60a5762d19a98578cbbd6c63/60be44b30c420895f1bef6d1_gradientspread-p-1600.png 1600w, https://assets-global.website-files.com/60a5762d19a98578cbbd6c63/60be44b30c420895f1bef6d1_gradientspread-p-2000.png 2000w, https://assets-global.website-files.com/60a5762d19a98578cbbd6c63/60be44b30c420895f1bef6d1_gradientspread.png 3000w" alt="" class="image-2"/>
-                </div>
             </div>
         </div>
         <div class="_2ndsection">
@@ -143,13 +134,5 @@
         </div>
         <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=60a5762d19a98578cbbd6c63" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
         <script src="https://assets-global.website-files.com/60a5762d19a98578cbbd6c63/js/webflow.1c21b36e0.js" type="text/javascript"></script>
-        <script type="text/javascript">
-            function googleTranslateElementInit() {
-                new google.translate.TranslateElement({
-                    pageLanguage: "en"
-                },"google_translate_element");
-            }
-            ;</script>
-        <script src="https://assets-global.website-files.com/60a5762d19a98578cbbd6c63/60a576a33c9d9558c516e96d_translator.txt"></script>
     </body>
 </html>
