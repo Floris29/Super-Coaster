@@ -18,9 +18,11 @@
     </section>
 
     <section>
-        <h2>Onze nieuwe achtbaan</h2>
-        <p>Meer details zullen snel verschijnen!</p>
-        <img src="https://storage.googleapis.com/proudcity/mebanenc/uploads/2021/03/placeholder-image.png"> <!-- Placeholder voor images -->
+        <div class="nieuwe-achtbaan">
+            <h2>Onze nieuwe achtbaan</h2>
+            <p>Meer details zullen snel verschijnen!</p>
+            <img src="https://storage.googleapis.com/proudcity/mebanenc/uploads/2021/03/placeholder-image.png"> <!-- Placeholder voor images -->
+        </div>
     </section>
 
     <section>
